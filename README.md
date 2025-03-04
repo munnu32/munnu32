@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @munnu32
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java and SpigotAPI
 - 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me @munnu0030
+- 📫 Add me on discord @ScearyTheCat
